@@ -1,4 +1,4 @@
-# Image_TextExtractor
+# Image_TextExtractor ![alt tag](https://app.codeship.com/projects/aab47140-30da-0135-e09b-661730c0bfa2/status?branch=master)
 Image Text Extraction using OCR. This is a python desktop application which can extract text from the image and the extracted text can be copied from the application textbox
 The application uses
 #### Python 3.5
