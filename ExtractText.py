@@ -22,7 +22,7 @@ def extract_image_text(self):
                 self.textbox.setText(text)
         else:
 
-            QMessageBox.question(self, 'Error!', 'Invalid file format selected. (Allowed formats: JPG ,JPEG ,PNG ,TIF )'
+            QMessageBox.question(self, 'Error!!', 'Invalid file format selected. (Allowed formats: JPG ,JPEG ,PNG ,TIF )'
                                  ,QMessageBox.Ok, QMessageBox.Ok)
     else:
 
